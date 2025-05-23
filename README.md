@@ -9,7 +9,7 @@
 # 📜 Certificate:
 
 **Dicoding - Belajar Dasar Pemrograman Web**  
-_Completed on March 2025_
+_Completed on January 2025_
 
 <img src="https://github.com/AnggaWibawa/AnggaWibawa/blob/main/assets/sertifikat_dicoding1.jpg?raw=true" alt="Certificate" width="500" />
 
